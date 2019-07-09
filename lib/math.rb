@@ -4,7 +4,8 @@ num2 = 9
 end
 
 def subtraction(num1, num2)
-
+num1 = 8
+num2 = 3
 end
 
 def division(num1, num2)
