@@ -15,7 +15,7 @@ end
 
 def multiplication(num1, num2)
 num1 = 4
-num2 = 30
+num2 = 120
 end
 
 def modulo(num1, num2)
